@@ -111,7 +111,9 @@ Tableau/
 Documentation/
 Images/
 ---
+# Dashboard Preview
 
+![Dashboard](Images/Dashboard.png)
 ## Author
 Lalith Kaushik
 
