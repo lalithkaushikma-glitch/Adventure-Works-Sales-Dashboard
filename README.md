@@ -110,9 +110,24 @@ PowerBI/
 Tableau/
 Documentation/
 Images/
+---# Dashboard Preview
+
+## Excel Dashboard
+
+![Excel Dashboard](Images/Excel_Dashboard.png)
+
 ---
-## Dashboard Preview
+
+## Power BI Dashboard
+
 ![Power BI Dashboard](Images/PowerBI_Dashboard.png)
+
+---
+
+## Tableau Dashboard
+
+![Tableau Dashboard](Images/Tableau_Dashboard.png)
+
 ## Author
 Lalith Kaushik
 
