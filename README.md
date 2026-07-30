@@ -111,9 +111,8 @@ Tableau/
 Documentation/
 Images/
 ---
-# Dashboard Preview
-
-![Dashboard](Images/Dashboard.png)
+## Dashboard Preview
+![Power BI Dashboard](Images/PowerBI_Dashboard.png)
 ## Author
 Lalith Kaushik
 
